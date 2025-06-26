@@ -5,10 +5,10 @@
 
 ## Contact Information
 
-Email: volodymyr.tesliuk.v8@gmail.com  
-GitHub: [VolodymyrTesliuk](https://github.com/VolodymyrTesliuk)  
-LinkedIn: [volodymyr-tesliuk](https://www.linkedin.com/in/volodymyr-tesliuk/)  
-Location: Poltava, Ukraine
+**Email**: volodymyr.tesliuk.v8@gmail.com  
+**GitHub**: [VolodymyrTesliuk](https://github.com/VolodymyrTesliuk)  
+**LinkedIn**: [volodymyr-tesliuk](https://www.linkedin.com/in/volodymyr-tesliuk/)  
+**Location**: Poltava, Ukraine
 
 <br>
 
