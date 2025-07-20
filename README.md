@@ -5,10 +5,8 @@
 
 ## Contact Information
 
-**Email**: volodymyr.tesliuk.v8@gmail.com  
-**GitHub**: [VolodymyrTesliuk](https://github.com/VolodymyrTesliuk)  
-**LinkedIn**: [volodymyr-tesliuk](https://www.linkedin.com/in/volodymyr-tesliuk/)  
-**Location**: Poltava, Ukraine
+**GitHub**: [VolodymyrTesliuk](https://github.com/VolodymyrTesliuk)
+**LinkedIn**: [volodymyr-tesliuk](https://www.linkedin.com/in/volodymyr-tesliuk/)
 
 <br>
 
@@ -46,8 +44,8 @@ I'm a creative and results-driven frontend engineer with over 7 years of experie
 ### Testing Tools
 
 - Vitest
+- Playwright
 - Jest
-- Cypress
 
 ### Methodologies
 
@@ -57,7 +55,7 @@ I'm a creative and results-driven frontend engineer with over 7 years of experie
 
 - Windows XP / 7 / 8 / 8.1 / 10 / 11
 - Ubuntu 20 / 22; Kali Linux
-- WSL
+- WSL 2
 
 ### Languages
 
@@ -67,11 +65,6 @@ I'm a creative and results-driven frontend engineer with over 7 years of experie
 <br>
 
 ## Education
-
-#### Bachelor's degree
-
-University of Customs and Finance  
-Computer Science 2013 - 2017
 
 #### Master's degree
 
