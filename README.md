@@ -5,8 +5,8 @@
 
 ## Contact Information
 
-**GitHub**: [VolodymyrTesliuk](https://github.com/VolodymyrTesliuk)
-**LinkedIn**: [volodymyr-tesliuk](https://www.linkedin.com/in/volodymyr-tesliuk/)
+- **GitHub**: [VolodymyrTesliuk](https://github.com/VolodymyrTesliuk)
+- **LinkedIn**: [volodymyr-tesliuk](https://www.linkedin.com/in/volodymyr-tesliuk/)
 
 <br>
 
