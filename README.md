@@ -20,7 +20,7 @@ I'm a creative and results-driven frontend engineer with over 7 years of experie
 
 ### Programming Languages and Technologies
 
-- JavaScript, TypeScript, Node.js, PHP
+- JavaScript, TypeScript, PHP
 - Pinia, Vuex, Redux
 - CSS, SCSS, Less
 - HTML, Pug(Jade)
@@ -53,8 +53,8 @@ I'm a creative and results-driven frontend engineer with over 7 years of experie
 
 ### Operating Systems
 
-- Windows XP / 7 / 8 / 8.1 / 10 / 11
-- Ubuntu 20 / 22; Kali Linux
+- Windows
+- Ubuntu; Kali Linux
 - WSL 2
 
 ### Languages
