@@ -1,10 +1,10 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark) and (max-width: 640px)" srcset="public/hero-dark-mobile.svg">
-    <source media="(prefers-color-scheme: dark) and (max-width: 1024px)" srcset="public/hero-dark-tablet.svg">
+    <source media="(prefers-color-scheme: dark) and (max-width: 480px)" srcset="public/hero-dark-mobile.svg">
+    <source media="(prefers-color-scheme: dark) and (max-width: 640px)" srcset="public/hero-dark-tablet.svg">
     <source media="(prefers-color-scheme: dark)" srcset="public/hero-dark.svg">
-    <source media="(max-width: 640px)" srcset="public/hero-light-mobile.svg">
-    <source media="(max-width: 1024px)" srcset="public/hero-light-tablet.svg">
+    <source media="(max-width: 480px)" srcset="public/hero-light-mobile.svg">
+    <source media="(max-width: 640px)" srcset="public/hero-light-tablet.svg">
     <img src="public/hero-light.svg" width="100%" alt="Volodymyr Tesliuk — Frontend Vue.js / Nuxt.js Engineer" />
   </picture>
   <br/><br/>
@@ -20,11 +20,11 @@
 ---
 
 <picture>
-  <source media="(prefers-color-scheme: dark) and (max-width: 640px)" srcset="public/section-about-dark-mobile.svg">
-  <source media="(prefers-color-scheme: dark) and (max-width: 1024px)" srcset="public/section-about-dark-tablet.svg">
+  <source media="(prefers-color-scheme: dark) and (max-width: 480px)" srcset="public/section-about-dark-mobile.svg">
+  <source media="(prefers-color-scheme: dark) and (max-width: 640px)" srcset="public/section-about-dark-tablet.svg">
   <source media="(prefers-color-scheme: dark)" srcset="public/section-about-dark.svg">
-  <source media="(max-width: 640px)" srcset="public/section-about-light-mobile.svg">
-  <source media="(max-width: 1024px)" srcset="public/section-about-light-tablet.svg">
+  <source media="(max-width: 480px)" srcset="public/section-about-light-mobile.svg">
+  <source media="(max-width: 640px)" srcset="public/section-about-light-tablet.svg">
   <img src="public/section-about-light.svg" width="100%" alt="About" />
 </picture>
 
@@ -35,11 +35,11 @@ Frontend Vue.js / Nuxt.js Engineer with **8+ years** of experience delivering re
 ---
 
 <picture>
-  <source media="(prefers-color-scheme: dark) and (max-width: 640px)" srcset="public/section-skills-dark-mobile.svg">
-  <source media="(prefers-color-scheme: dark) and (max-width: 1024px)" srcset="public/section-skills-dark-tablet.svg">
+  <source media="(prefers-color-scheme: dark) and (max-width: 480px)" srcset="public/section-skills-dark-mobile.svg">
+  <source media="(prefers-color-scheme: dark) and (max-width: 640px)" srcset="public/section-skills-dark-tablet.svg">
   <source media="(prefers-color-scheme: dark)" srcset="public/section-skills-dark.svg">
-  <source media="(max-width: 640px)" srcset="public/section-skills-light-mobile.svg">
-  <source media="(max-width: 1024px)" srcset="public/section-skills-light-tablet.svg">
+  <source media="(max-width: 480px)" srcset="public/section-skills-light-mobile.svg">
+  <source media="(max-width: 640px)" srcset="public/section-skills-light-tablet.svg">
   <img src="public/section-skills-light.svg" width="100%" alt="Tech Stack" />
 </picture>
 
@@ -104,11 +104,11 @@ Frontend Vue.js / Nuxt.js Engineer with **8+ years** of experience delivering re
 ---
 
 <picture>
-  <source media="(prefers-color-scheme: dark) and (max-width: 640px)" srcset="public/section-experience-dark-mobile.svg">
-  <source media="(prefers-color-scheme: dark) and (max-width: 1024px)" srcset="public/section-experience-dark-tablet.svg">
+  <source media="(prefers-color-scheme: dark) and (max-width: 480px)" srcset="public/section-experience-dark-mobile.svg">
+  <source media="(prefers-color-scheme: dark) and (max-width: 640px)" srcset="public/section-experience-dark-tablet.svg">
   <source media="(prefers-color-scheme: dark)" srcset="public/section-experience-dark.svg">
-  <source media="(max-width: 640px)" srcset="public/section-experience-light-mobile.svg">
-  <source media="(max-width: 1024px)" srcset="public/section-experience-light-tablet.svg">
+  <source media="(max-width: 480px)" srcset="public/section-experience-light-mobile.svg">
+  <source media="(max-width: 640px)" srcset="public/section-experience-light-tablet.svg">
   <img src="public/section-experience-light.svg" width="100%" alt="Work Experience" />
 </picture>
 
@@ -263,11 +263,11 @@ Delivered **4 custom WordPress themes** for clients across travel, entertainment
 ---
 
 <picture>
-  <source media="(prefers-color-scheme: dark) and (max-width: 640px)" srcset="public/section-education-dark-mobile.svg">
-  <source media="(prefers-color-scheme: dark) and (max-width: 1024px)" srcset="public/section-education-dark-tablet.svg">
+  <source media="(prefers-color-scheme: dark) and (max-width: 480px)" srcset="public/section-education-dark-mobile.svg">
+  <source media="(prefers-color-scheme: dark) and (max-width: 640px)" srcset="public/section-education-dark-tablet.svg">
   <source media="(prefers-color-scheme: dark)" srcset="public/section-education-dark.svg">
-  <source media="(max-width: 640px)" srcset="public/section-education-light-mobile.svg">
-  <source media="(max-width: 1024px)" srcset="public/section-education-light-tablet.svg">
+  <source media="(max-width: 480px)" srcset="public/section-education-light-mobile.svg">
+  <source media="(max-width: 640px)" srcset="public/section-education-light-tablet.svg">
   <img src="public/section-education-light.svg" width="100%" alt="Education" />
 </picture>
 
@@ -286,11 +286,11 @@ Delivered **4 custom WordPress themes** for clients across travel, entertainment
 ---
 
 <picture>
-  <source media="(prefers-color-scheme: dark) and (max-width: 640px)" srcset="public/section-contact-dark-mobile.svg">
-  <source media="(prefers-color-scheme: dark) and (max-width: 1024px)" srcset="public/section-contact-dark-tablet.svg">
+  <source media="(prefers-color-scheme: dark) and (max-width: 480px)" srcset="public/section-contact-dark-mobile.svg">
+  <source media="(prefers-color-scheme: dark) and (max-width: 640px)" srcset="public/section-contact-dark-tablet.svg">
   <source media="(prefers-color-scheme: dark)" srcset="public/section-contact-dark.svg">
-  <source media="(max-width: 640px)" srcset="public/section-contact-light-mobile.svg">
-  <source media="(max-width: 1024px)" srcset="public/section-contact-light-tablet.svg">
+  <source media="(max-width: 480px)" srcset="public/section-contact-light-mobile.svg">
+  <source media="(max-width: 640px)" srcset="public/section-contact-light-tablet.svg">
   <img src="public/section-contact-light.svg" width="100%" alt="Let's Work Together" />
 </picture>
 
