@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 768 260" width="768" height="260" role="img" aria-label="Volodymyr Tesliuk — Frontend Vue.js / Nuxt.js Engineer">
+  <title>Volodymyr Tesliuk — Frontend Vue.js / Nuxt.js Engineer</title>
+  <style>
+    .bg        { fill: #0d1117; }
+    .bg-el     { fill: #161b22; }
+    .c-text    { fill: #e6edf3; }
+    .c-muted   { fill: #8b949e; }
+    .c-primary { fill: #34d399; }
+    .gs-p      { stop-color: #34d399; }
+    .gs-p0     { stop-color: #34d399; stop-opacity: 0; }
+    .gs-pm     { stop-color: #34d399; stop-opacity: 0.82; }
+    .gs-bg     { stop-color: #0d1117; }
+    .gs-bgel   { stop-color: #161b22; }
+    .divider   { stroke: #30363d; stroke-opacity: 0.55; }
+    @keyframes glowBreath { 0%,100%{opacity:.07} 50%{opacity:.20} }
+    @keyframes lineShimmer { 0%,100%{opacity:.52} 50%{opacity:1.00} }
+    .glow-blob { animation: glowBreath  6s ease-in-out infinite; }
+    .top-line  { animation: lineShimmer 4s ease-in-out infinite; }
+  </style>
+  <defs>
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="768" y2="260" gradientUnits="userSpaceOnUse">
+      <stop offset="0%"   class="gs-bg"/>
+      <stop offset="100%" class="gs-bgel"/>
+    </linearGradient>
+    <linearGradient id="lineGrad" x1="0" y1="0" x2="768" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%"   class="gs-p0"/>
+      <stop offset="12%"  class="gs-pm"/>
+      <stop offset="50%"  class="gs-p"/>
+      <stop offset="88%"  class="gs-pm"/>
+      <stop offset="100%" class="gs-p0"/>
+    </linearGradient>
+    <linearGradient id="textGradient" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%"   stop-color="#42d392"/>
+      <stop offset="100%" stop-color="#647eff"/>
+    </linearGradient>
+    <radialGradient id="glowGrad" cx="384" cy="0" r="384" gradientUnits="userSpaceOnUse">
+      <stop offset="0%"   class="gs-p"/>
+      <stop offset="100%" class="gs-p0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="768" height="260" fill="url(#bgGrad)"/>
+  <rect class="glow-blob" width="768" height="260" fill="url(#glowGrad)"/>
+  <rect class="top-line" x="0" y="0" width="768" height="3" fill="url(#lineGrad)"/>
+
+  <!-- Status row -->
+  <circle cx="258" cy="42" r="5" class="c-primary"/>
+  <circle cx="258" cy="42" r="5" class="c-primary">
+    <animate attributeName="r"       values="5;10;5"      dur="2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.45;0;0.45" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <text x="384" y="47" text-anchor="middle"
+        font-family="ui-sans-serif,system-ui,-apple-system,Arial,sans-serif"
+        font-size="13"><tspan font-weight="500" class="c-primary">Open to work</tspan><tspan class="c-muted"> · Remote · Poltava, Ukraine</tspan></text>
+
+  <!-- Name + Title -->
+  <g fill="url(#textGradient)" font-family="ui-sans-serif,system-ui,-apple-system,Arial,sans-serif" font-weight="800">
+    <text x="384" y="101" text-anchor="middle"
+          font-size="46" letter-spacing="-1">Volodymyr Tesliuk</text>
+    <text x="384" y="129" text-anchor="middle"
+          font-size="19" font-weight="600">Frontend Vue.js / Nuxt.js Engineer</text>
+  </g>
+
+  <!-- Summary -->
+  <text x="384" y="153" text-anchor="middle"
+        font-family="ui-sans-serif,system-ui,-apple-system,Arial,sans-serif"
+        font-size="12" class="c-muted">8+ years delivering responsive, high-performance web apps with Vue.js (2/3) and Nuxt.js (2/3/4).</text>
+  <text x="384" y="168" text-anchor="middle"
+        font-family="ui-sans-serif,system-ui,-apple-system,Arial,sans-serif"
+        font-size="12" class="c-muted">TypeScript · SSR · Composition API · Pinia · GraphQL · i18n · CZ · UK · US · SE · UA</text>
+
+  <!-- Divider -->
+  <line x1="256" y1="186" x2="512" y2="186" stroke-width="1" class="divider"/>
+
+  <!-- Stat pills -->
+  <rect x="202" y="196" width="69"  height="20" rx="10" class="bg-el"/>
+  <text x="237" y="210" text-anchor="middle"
+        font-family="ui-sans-serif,system-ui,-apple-system,Arial,sans-serif"
+        font-size="12" font-weight="600" class="c-primary">8+ years</text>
+
+  <rect x="274" y="196" width="124" height="20" rx="10" class="bg-el"/>
+  <text x="336" y="210" text-anchor="middle"
+        font-family="ui-sans-serif,system-ui,-apple-system,Arial,sans-serif"
+        font-size="12" class="c-muted">CZ · UK · US · SE · UA</text>
+
+  <rect x="401" y="196" width="72"  height="20" rx="10" class="bg-el"/>
+  <text x="437" y="210" text-anchor="middle"
+        font-family="ui-sans-serif,system-ui,-apple-system,Arial,sans-serif"
+        font-size="12" class="c-muted">Remote ✓</text>
+
+  <rect x="476" y="196" width="72"  height="20" rx="10" class="bg-el"/>
+  <text x="512" y="210" text-anchor="middle"
+        font-family="ui-sans-serif,system-ui,-apple-system,Arial,sans-serif"
+        font-size="12" class="c-muted">B2 English</text>
+
+  <rect x="0" y="257" width="768" height="3" fill="url(#lineGrad)" opacity="0.28"/>
+</svg>
