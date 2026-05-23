@@ -289,9 +289,9 @@ Delivered **4 custom WordPress themes** for clients across travel, entertainment
   <source media="(prefers-color-scheme: light) and (max-width: 480px)" srcset="public/section-contact-light-mobile.svg">
   <source media="(prefers-color-scheme: light) and (max-width: 640px)" srcset="public/section-contact-light-tablet.svg">
   <source media="(prefers-color-scheme: light)" srcset="public/section-contact-light.svg">
-  <source media="(max-width: 480px)" srcset="public/section-contact-light-mobile.svg">
-  <source media="(max-width: 640px)" srcset="public/section-contact-light-tablet.svg">
-  <img src="public/section-contact-light.svg" width="100%" alt="Let's Work Together" />
+  <source media="(max-width: 480px)" srcset="public/section-contact-dark-mobile.svg">
+  <source media="(max-width: 640px)" srcset="public/section-contact-dark-tablet.svg">
+  <img src="public/section-contact-dark.svg" width="100%" alt="Let's Work Together" />
 </picture>
 
 <div align="center">
