@@ -1,11 +1,11 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark) and (max-width: 480px)" srcset="public/hero-dark-mobile.svg">
-    <source media="(prefers-color-scheme: dark) and (max-width: 640px)" srcset="public/hero-dark-tablet.svg">
-    <source media="(prefers-color-scheme: dark)" srcset="public/hero-dark.svg">
-    <source media="(max-width: 480px)" srcset="public/hero-light-mobile.svg">
-    <source media="(max-width: 640px)" srcset="public/hero-light-tablet.svg">
-    <img src="public/hero-light.svg" width="100%" alt="Volodymyr Tesliuk — Frontend Vue.js / Nuxt.js Engineer" />
+    <source media="(prefers-color-scheme: light) && (max-width: 480px)" srcset="public/hero-light-mobile.svg">
+    <source media="(prefers-color-scheme: light) && (max-width: 640px)" srcset="public/hero-light-tablet.svg">
+    <source media="(prefers-color-scheme: light)" srcset="public/hero-light-tablet.svg">
+    <source media="(max-width: 480px)" srcset="public/hero-dark-mobile.svg">
+    <source media="(max-width: 640px)" srcset="public/hero-dark-tablet.svg">
+    <img src="public/hero-dark.svg" width="100%" alt="Volodymyr Tesliuk — Frontend Vue.js / Nuxt.js Engineer" />
   </picture>
   <br/><br/>
 
@@ -20,12 +20,12 @@
 ---
 
 <picture>
-  <source media="(prefers-color-scheme: dark) and (max-width: 480px)" srcset="public/section-about-dark-mobile.svg">
-  <source media="(prefers-color-scheme: dark) and (max-width: 640px)" srcset="public/section-about-dark-tablet.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="public/section-about-dark.svg">
-  <source media="(max-width: 480px)" srcset="public/section-about-light-mobile.svg">
-  <source media="(max-width: 640px)" srcset="public/section-about-light-tablet.svg">
-  <img src="public/section-about-light.svg" width="100%" alt="About" />
+  <source media="(prefers-color-scheme: light) and (max-width: 480px)" srcset="public/section-about-light-mobile.svg">
+  <source media="(prefers-color-scheme: light) and (max-width: 640px)" srcset="public/section-about-light-tablet.svg">
+  <source media="(prefers-color-scheme: light)" srcset="public/section-about-light.svg">
+  <source media="(max-width: 480px)" srcset="public/section-about-dark-mobile.svg">
+  <source media="(max-width: 640px)" srcset="public/section-about-dark-tablet.svg">
+  <img src="public/section-about-dark.svg" width="100%" alt="About" />
 </picture>
 
 Frontend Vue.js / Nuxt.js Engineer with **8+ years** of experience delivering responsive, high-performance web applications. Deep expertise in **Vue.js (2/3)** and **Nuxt.js (2/3/4)** with TypeScript, SSR, Composition API, Pinia, Vuex, GraphQL, REST API, and i18n. Delivered multilingual e-commerce platforms, SaaS dashboards, and headless CMS-driven sites for clients across **Czech Republic · UK · US · Ukraine**. Experienced in Agile cross-functional teams with a track record of mentoring junior developers.
@@ -35,12 +35,12 @@ Frontend Vue.js / Nuxt.js Engineer with **8+ years** of experience delivering re
 ---
 
 <picture>
-  <source media="(prefers-color-scheme: dark) and (max-width: 480px)" srcset="public/section-skills-dark-mobile.svg">
-  <source media="(prefers-color-scheme: dark) and (max-width: 640px)" srcset="public/section-skills-dark-tablet.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="public/section-skills-dark.svg">
-  <source media="(max-width: 480px)" srcset="public/section-skills-light-mobile.svg">
-  <source media="(max-width: 640px)" srcset="public/section-skills-light-tablet.svg">
-  <img src="public/section-skills-light.svg" width="100%" alt="Tech Stack" />
+  <source media="(prefers-color-scheme: light) and (max-width: 480px)" srcset="public/section-skills-light-mobile.svg">
+  <source media="(prefers-color-scheme: light) and (max-width: 640px)" srcset="public/section-skills-light-tablet.svg">
+  <source media="(prefers-color-scheme: light)" srcset="public/section-skills-light.svg">
+  <source media="(max-width: 480px)" srcset="public/section-skills-dark-mobile.svg">
+  <source media="(max-width: 640px)" srcset="public/section-skills-dark-tablet.svg">
+  <img src="public/section-skills-dark.svg" width="100%" alt="Tech Stack" />
 </picture>
 
 **Core Frontend**
@@ -104,12 +104,12 @@ Frontend Vue.js / Nuxt.js Engineer with **8+ years** of experience delivering re
 ---
 
 <picture>
-  <source media="(prefers-color-scheme: dark) and (max-width: 480px)" srcset="public/section-experience-dark-mobile.svg">
-  <source media="(prefers-color-scheme: dark) and (max-width: 640px)" srcset="public/section-experience-dark-tablet.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="public/section-experience-dark.svg">
-  <source media="(max-width: 480px)" srcset="public/section-experience-light-mobile.svg">
-  <source media="(max-width: 640px)" srcset="public/section-experience-light-tablet.svg">
-  <img src="public/section-experience-light.svg" width="100%" alt="Work Experience" />
+  <source media="(prefers-color-scheme: light) and (max-width: 480px)" srcset="public/section-experience-light-mobile.svg">
+  <source media="(prefers-color-scheme: light) and (max-width: 640px)" srcset="public/section-experience-light-tablet.svg">
+  <source media="(prefers-color-scheme: light)" srcset="public/section-experience-light.svg">
+  <source media="(max-width: 480px)" srcset="public/section-experience-dark-mobile.svg">
+  <source media="(max-width: 640px)" srcset="public/section-experience-dark-tablet.svg">
+  <img src="public/section-experience-dark.svg" width="100%" alt="Work Experience" />
 </picture>
 
 ### 🟢 Lambda-dev — Frontend Engineer
@@ -263,12 +263,12 @@ Delivered **4 custom WordPress themes** for clients across travel, entertainment
 ---
 
 <picture>
-  <source media="(prefers-color-scheme: dark) and (max-width: 480px)" srcset="public/section-education-dark-mobile.svg">
-  <source media="(prefers-color-scheme: dark) and (max-width: 640px)" srcset="public/section-education-dark-tablet.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="public/section-education-dark.svg">
-  <source media="(max-width: 480px)" srcset="public/section-education-light-mobile.svg">
-  <source media="(max-width: 640px)" srcset="public/section-education-light-tablet.svg">
-  <img src="public/section-education-light.svg" width="100%" alt="Education" />
+  <source media="(prefers-color-scheme: light) and (max-width: 480px)" srcset="public/section-education-light-mobile.svg">
+  <source media="(prefers-color-scheme: light) and (max-width: 640px)" srcset="public/section-education-light-tablet.svg">
+  <source media="(prefers-color-scheme: light)" srcset="public/section-education-light.svg">
+  <source media="(max-width: 480px)" srcset="public/section-education-dark-mobile.svg">
+  <source media="(max-width: 640px)" srcset="public/section-education-dark-tablet.svg">
+  <img src="public/section-education-dark.svg" width="100%" alt="Education" />
 </picture>
 
 | Degree | Field | University | Years |
@@ -286,9 +286,9 @@ Delivered **4 custom WordPress themes** for clients across travel, entertainment
 ---
 
 <picture>
-  <source media="(prefers-color-scheme: dark) and (max-width: 480px)" srcset="public/section-contact-dark-mobile.svg">
-  <source media="(prefers-color-scheme: dark) and (max-width: 640px)" srcset="public/section-contact-dark-tablet.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="public/section-contact-dark.svg">
+  <source media="(prefers-color-scheme: light) and (max-width: 480px)" srcset="public/section-contact-light-mobile.svg">
+  <source media="(prefers-color-scheme: light) and (max-width: 640px)" srcset="public/section-contact-light-tablet.svg">
+  <source media="(prefers-color-scheme: light)" srcset="public/section-contact-light.svg">
   <source media="(max-width: 480px)" srcset="public/section-contact-light-mobile.svg">
   <source media="(max-width: 640px)" srcset="public/section-contact-light-tablet.svg">
   <img src="public/section-contact-light.svg" width="100%" alt="Let's Work Together" />
