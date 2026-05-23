@@ -1,8 +1,8 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: light) && (max-width: 480px)" srcset="public/hero-light-mobile.svg">
-    <source media="(prefers-color-scheme: light) && (max-width: 640px)" srcset="public/hero-light-tablet.svg">
-    <source media="(prefers-color-scheme: light)" srcset="public/hero-light-tablet.svg">
+    <source media="(prefers-color-scheme: light) and (max-width: 480px)" srcset="public/hero-light-mobile.svg">
+    <source media="(prefers-color-scheme: light) and (max-width: 640px)" srcset="public/hero-light-tablet.svg">
+    <source media="(prefers-color-scheme: light)" srcset="public/hero-light.svg">
     <source media="(max-width: 480px)" srcset="public/hero-dark-mobile.svg">
     <source media="(max-width: 640px)" srcset="public/hero-dark-tablet.svg">
     <img src="public/hero-dark.svg" width="100%" alt="Volodymyr Tesliuk — Frontend Vue.js / Nuxt.js Engineer" />
